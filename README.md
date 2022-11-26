@@ -1,6 +1,7 @@
 ### Hi there 👋
+I'm Ibrahim ahmad,Mobile and Backend freelancer developer with then mores 5 year 
 
-<!--
+
 **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
