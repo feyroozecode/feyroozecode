@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 
 <br/>
 ![](https://github-profile-trophy.vercel.app/?username=ibrahmad18&margin-w=8)]
-![](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
