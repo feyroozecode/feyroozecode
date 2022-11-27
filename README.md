@@ -1,5 +1,5 @@
 ### Hi there 👋
-Assalam Aleykoum, ahlan wa sahlan, I'm <h2 style="color:blue;"> Ibrahim ahmad </h2>,Mobile and Backend freelancer developer with then mores 5 year 
+Assalam Aleykoum, ahlan wa sahlan, My name's <h2 style="color:blue"> Ibrahim ahmad </h2> <citation> Mobile and Backend freelancer developer with then mores 5 year </citation>
 
 
 **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
