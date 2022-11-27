@@ -2,7 +2,7 @@
 Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Backend freelancer developer with then mores 5 year </i>
 
 
-<!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ->
+<!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
