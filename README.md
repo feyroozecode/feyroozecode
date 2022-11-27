@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahmad18&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=ibrahmad18&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=ibrahmad18&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
