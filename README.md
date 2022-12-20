@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 <br/>
 ![](https://github-profile-trophy.vercel.app/?username=ibrahmad18&margin-w=8)]
 -->
+
+<a href="https://app.daily.dev/ibrahmad18">
+<img src="https://api.daily.dev/devcards/912a078d1dcd4e18bc6674586599a2ce.png?r=57k" width="400" alt="Ibrahim Ahmad's Dev Card"/>
+</a>
