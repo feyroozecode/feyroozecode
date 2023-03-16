@@ -1,6 +1,18 @@
 ### Hi there 👋
-Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Backend freelancer developer with then mores 5 year </i>
-
+Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile technologies like : </i>
+- Javacript
+- VueJs
+- Tqilwindcss
+- NodeJs
+- Flutter/Dart
+- Python 
+- Java
+- Kotlin
+- Swift
+- C# and 
+- .NET Framwork  
+- HTML 
+- CSSS
 
 <!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
