@@ -1,8 +1,10 @@
 ### Hi there 👋
 Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile technologies like : </i>
+- Android - Java/Kotlin
+- Ios App developpement 
 - Javacript
 - VueJs
-- Tqilwindcss
+- Tailwindcss
 - NodeJs
 - Flutter/Dart
 - Python 
