@@ -1,12 +1,13 @@
 ### Hi there 👋
 Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
 - Web FullStack(NodeJs+VueJs)
-- Android - Java/Kotlin
-- Ios App developpement 
 - Javacript
+- TypeScript
 - VueJs
 - Tailwindcss
 - NodeJs
+- Android - Java/Kotlin
+- Ios App developpement 
 - Flutter/Dart
 - Python 
 - Java
