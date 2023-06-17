@@ -1,11 +1,13 @@
 ### Hi there 👋
-Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
+Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
 - Web FullStack(NodeJs+VueJs) , (Django+VueJs)
+  
 [FRAMWORK]
 - Python/Django
 - Asp .Net
 - NodeJs
 - .NET Framwork
+- 
 [Frontend]
 - VueJs
 - Tailwindcss
@@ -22,12 +24,16 @@ Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim a
 - Swift
 - C# and  
 - HTML 
-- CSSS
+- CSS
+-   
   [DB]
   - MongoDb
   - Sqlite
   - Sql
-  
+  -
+  [TOOLS]
+  - Docker
+  - Git/Github
 
 <!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
