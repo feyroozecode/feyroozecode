@@ -7,7 +7,7 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim a
 - Asp .Net
 - NodeJs
 - .NET Framwork
-- 
+  
 [Frontend]
 - VueJs
 - Tailwindcss
@@ -15,6 +15,7 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim a
 - Android - Java/Kotlin
 - Ios App developpement 
 - Flutter/Dart
+  
   [Languages]
 - Javacript
 - TypeScript
@@ -25,15 +26,18 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim a
 - C# and  
 - HTML 
 - CSS
--   
+  
   [DB]
   - MongoDb
   - Sqlite
   - Sql
-  -
+  
   [TOOLS]
   - Docker
   - Git/Github
+  - Shell
+  - Vscode
+  - Intelig Idea IDE(Idea CE, Android Studio etc..)
 
 <!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
