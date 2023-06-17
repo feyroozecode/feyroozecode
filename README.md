@@ -1,29 +1,41 @@
 ### Hi there 👋
 Assalam Aleykoum, ahlan wa sahlan, My name's **<h2 style="color:blue"> Ibrahim ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
-- Web FullStack(NodeJs+VueJs)
-- Javacript
-- TypeScript
+- Web FullStack(NodeJs+VueJs) , (Django+VueJs)
+[FRAMWORK]
+- Python/Django
+- Asp .Net
+- NodeJs
+- .NET Framwork
+[Frontend]
 - VueJs
 - Tailwindcss
-- NodeJs
+  [MOBILE]
 - Android - Java/Kotlin
 - Ios App developpement 
 - Flutter/Dart
+  [Languages]
+- Javacript
+- TypeScript
 - Python 
 - Java
 - Kotlin
 - Swift
-- C# and 
-- .NET Framwork  
+- C# and  
 - HTML 
 - CSSS
+  [DB]
+  - MongoDb
+  - Sqlite
+  - Sql
+  
 
 <!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Freelancing in Mobile app developpement, Backend and Web frontend with technologies like Flutter/Dart, Android Jetpack Compose, Swift/Ios, C# and .Net , VueJs and mores ...
+- 🔭 I’m currently working in Freelancing in Mobile app developpement, Backend and Web frontend with technologies NodeJs, VueJs, Django like Flutter/Dart, Android Jetpack Compose, Swift/Ios, C# and .Net , VueJs and mores ...
 - 🌱 I’m currently learning Python, NodeJS, Flutter etc...
+- 
 - 👯 I’m looking to collaborate on freelance projects on Mobile app developpement with technologies like Flutter, Android Natif, Ios(Swift), Backend devs ...
 - 🤔 I’m looking for help with Open Sources, islamic open source projects etc...
 - 💬 Ask me about Mobile app dev ...
