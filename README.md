@@ -7,16 +7,17 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
 - Asp .Net
 - NodeJs
 - .NET Framwork
+
+[MOBILE]
+- Android(JetPack Compose) - Java/Kotlin
+- Ios App developpement 
+- Flutter/Dart
   
 [Frontend]
 - VueJs
 - Tailwindcss
-  [MOBILE]
-- Android - Java/Kotlin
-- Ios App developpement 
-- Flutter/Dart
   
-  [Languages]
+[Languages]
 - Javacript
 - TypeScript
 - Python 
