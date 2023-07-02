@@ -7,16 +7,13 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
 - Asp .Net
 - NodeJs
 - .NET Framwork
-
 [MOBILE]
 - Android(JetPack Compose) - Java/Kotlin
 - Ios App developpement 
 - Flutter/Dart
-  
 [Frontend]
 - VueJs
 - Tailwindcss
-  
 [Languages]
 - Javacript
 - TypeScript
@@ -27,20 +24,16 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
 - C# and  
 - HTML 
 - CSS
-  
-  [DB]
+[DB]
   - MongoDb
   - Sqlite
-  - Sql
-  
-  [TOOLS]
+  - Sql  
+[TOOLS]
   - Docker
   - Git/Github
   - Shell
   - Vscode
   - Intelig Idea IDE(Idea CE, Android Studio etc..)
-
-<!-- **ibrahmad18/ibrahmad18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -54,13 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ibrahim ahmad...
 - ⚡ Fun fact: ...
 <br/><br/>
-
-<!-- 
-<a href="https://app.daily.dev/ibrahmad18">
-<img src="https://api.daily.dev/devcards/912a078d1dcd4e18bc6674586599a2ce.png?r=57k" width="400" alt="Ibrahim Ahmad's Dev Card"/>
-</a>
--->
-
 
 ## 💳 Github Profile Summary Card
 <p align="center">
