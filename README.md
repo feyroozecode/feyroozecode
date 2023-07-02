@@ -61,6 +61,16 @@ Here are some ideas to get you started:
 </a>
 -->
 
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahmad18&theme=vue"/>
+</p>
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahmad18&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahmad18&theme=vue" />
+</p>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahmad18&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ibrahmad18&theme=light&hide_border=false&include_all_commits=true&count_private=true) -->
 
