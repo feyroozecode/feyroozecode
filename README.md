@@ -2,15 +2,15 @@
 Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim Ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
 - Web FullStack(NodeJs+VueJs) , (Django+VueJs)
   
-[FRAMWORK]
-- Python/Django
-- Asp .Net
+[Stack and FRAMWORK]
 - NodeJs
-- .NET Framwork
-     
+- NuxtJs
+- Python/Django
+- Asp .Net Core
+       
 [MOBILE]
 - Android(JetPack Compose) - Java/Kotlin
-- Ios App developpement 
+- Ios App developpement (Swift)
 - Flutter/Dart
   
 [Frontend]
@@ -21,9 +21,9 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
 [Languages]
 - Javacript
 - TypeScript
+- Kotlin
 - Python 
 - Java
-- Kotlin
 - Swift
 - C# and  
 - HTML 
@@ -40,6 +40,12 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
   - Shell
   - Vscode
   - Intelig Idea IDE(Idea CE, Android Studio etc..)
+
+[What I Learn]
+- Software Architectures
+- AI
+- Machine Leaning
+- UX Desgin
 
 Here are some ideas to get you started:
 
