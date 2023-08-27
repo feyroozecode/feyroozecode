@@ -1,22 +1,22 @@
 ### Hi there 👋
 Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim Ahmad </h2>** <i> Mobile and Web freelancer developer with then mores 7 year of experiences in Web and mobile developpement like : </i>
-- Web FullStack(NodeJs+VueJs) , (Django+VueJs)
+- Web FullStack Developer (NodeJs+VueJs)
   
-[Stack and FRAMWORK]
+[BackEnd Technos and FRAMWORK]
 - NodeJs
 - NuxtJs
 - Python/Django
 - Asp .Net Core
-       
-[MOBILE]
-- Android(JetPack Compose) - Java/Kotlin
-- Ios App developpement (Swift)
-- Flutter/Dart
-  
+
 [Frontend]
 - VueJs
 - Tailwindcss
 - Bootstrap
+  
+[MOBILE]
+- Android(JetPack Compose) - Java/Kotlin
+- Ios App developpement (Swift)
+- Flutter/Dart
   
 [Languages]
 - Javacript
@@ -33,12 +33,15 @@ Assalam Aleykoum, Ahlan Wa Sahlan, My name's **<h2 style="color:blue"> Ibrahim A
   - MongoDb
   - Sqlite
   - Sql
+  - noSql
+  - PostgreSql
 
 [TOOLS]
   - Docker
   - Git/Github
   - Shell
   - Vscode
+  - Visual Studio 
   - Intelig Idea IDE(Idea CE, Android Studio etc..)
 
 [What I Learn]
