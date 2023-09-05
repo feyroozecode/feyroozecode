@@ -46,8 +46,6 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 
 Looking forward to connecting and collaborating!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahmad18&layout=compact)
-
 ## GitHub Profile Summary:
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahmad18&theme=vue)
 
@@ -55,4 +53,4 @@ Looking forward to connecting and collaborating!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahmad18&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ## Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahmad18&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
