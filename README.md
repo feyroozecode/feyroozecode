@@ -46,6 +46,9 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 
 Looking forward to connecting and collaborating!
 
+## Github Readme Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahmad18&theme=dark)](https://git.io/streak-stats)
+
 ## GitHub Profile Summary:
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahmad18&theme=vue)
 
