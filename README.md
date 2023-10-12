@@ -37,7 +37,7 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 💬 **Feel free to ask me** about Mobile app development, technical inquiries, or anything else you're curious about.
 
 📫 **You can reach me** at:
-- Email: ibrahmad18@gmail.com
+- Email:feyroozecode@gmail.com
 - Twitter: [https://twitter.com/feyroozcode](https://twitter.com/feyroozcode)
 - YouTube: [https://www.youtube.com/channel/UCdIUoaeRm2Xu3QwfHw58eOw](https://www.youtube.com/channel/UCdIUoaeRm2Xu3QwfHw58eOw)
 - Phone: +22799463594
@@ -47,13 +47,13 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 Looking forward to connecting and collaborating!
 
 ## Github Readme Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahmad18&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=feyroozecode&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Profile Summary:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahmad18&theme=vue)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feyroozecode&theme=vue)
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahmad18&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feyroozecode&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feyroozecode&hide_progress=true)
