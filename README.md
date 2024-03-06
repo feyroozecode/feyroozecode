@@ -26,18 +26,17 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 - Leveraging Docker, Git/GitHub, Shell, VS Code, Visual Studio, and IntelliJ IDEA for streamlined development workflows.
 
 ## Continuous Learning
-- Exploring Software Architectures, AI, Machine Learning, and UX Design to stay at the forefront of technology.
+- Exploring Software Architectures, AI,NLP, Machine Learning, and UX Design to stay at the forefront of technology.
 
 🔭 **Currently**, I'm engaged in Freelancing, focusing on Mobile app development including Flutter/Dart, Android Jetpack Compose, Swift/iOS, as well as Backend and Frontend using technologies like Node.js, Vue.js, Nuxt.js, C#, .Net, and more.
 
-🌱 **I'm actively learning** Python, Node.js, Flutter, and other cutting-edge technologies.
+🌱 **I'm actively learning** AI, NLP, Python, Rust and other cutting-edge technologies.
 
-👯 **I'm open to collaborate** on freelance projects involving Mobile app development with technologies such as Flutter, Native Android, Swift for iOS, and Backend development.
+👯 **I'm open to collaborate** on projects involving Mobile apps, AI, Web development with technologies such as Flutter, Ai , NLP, and Web  Backend development.
 
 💬 **Feel free to ask me** about Mobile app development, technical inquiries, or anything else you're curious about.
-
 📫 **You can reach me** at:
-- Email:feyroozecode@gmail.com
+- Email: feyroozecode AT gmailD OT com
 - Twitter: [https://twitter.com/feyroozcode](https://twitter.com/feyroozcode)
 - YouTube: [https://www.youtube.com/channel/UCdIUoaeRm2Xu3QwfHw58eOw](https://www.youtube.com/channel/UCdIUoaeRm2Xu3QwfHw58eOw)
 - Phone: +22799463594
