@@ -17,7 +17,7 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 - Crafting exceptional mobile experiences using Android (Jetpack Compose with Java/Kotlin), iOS (Swift), and Flutter/Dart.
 
 ## Multilingual Aptitude
-- Fluent in JavaScript, TypeScript, Kotlin, Python, Java, Swift, C#, HTML, and CSS.
+- Fluent in Dart/Flutter, JavaScript, TypeScript, Kotlin, Python, Java, Swift, C#, HTML, and CSS.
 
 ## Database Proficiency
 - Navigating MongoDB, SQLite, SQL, NoSQL, and PostgreSQL for efficient data management.
