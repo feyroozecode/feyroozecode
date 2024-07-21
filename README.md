@@ -8,7 +8,7 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 - Harnessing the power of Node.js and Vue.js to deliver seamless full-stack solutions.
 
 ## Backend Proficiency
-- Adept in Node.js, Nuxt.js, Python/Django, and Asp .Net Core for robust backend development.
+- Fluent in Node.js, Nuxt.js, Python/Django,Oython/Flask and Asp .Net Core for robust backend development.
 
 ## Frontend Excellence
 - Mastering Vue.js, Tailwind CSS, and Bootstrap to create captivating user interfaces.
