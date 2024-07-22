@@ -2,22 +2,22 @@
 
 **Assalamu Alaikum! Ahlan Wa Sahlan!**
 
-I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7 years of hands-on experience in crafting outstanding web and mobile solutions. Here's what sets me apart:
+I'm **Ibrahim Ahmad**, a freelance Mobile and Web developer with over 6 years of hands-on experience in crafting outstanding web and mobile solutions. Here's what sets me apart:
 
 ## Web FullStack Expertise
 - Harnessing the power of Node.js and Vue.js to deliver seamless full-stack solutions.
 
 ## Backend Proficiency
-- Fluent in Node.js, Nuxt.js, Python/Django,Oython/Flask and Asp .Net Core for robust backend development.
+- Node.js, Nuxt.js, Python/Django and Flask and Springboot backend development.
 
 ## Frontend Excellence
 - Mastering Vue.js, Tailwind CSS, and Bootstrap to create captivating user interfaces.
 
 ## Mobile Mastery
-- Crafting exceptional mobile experiences using Android (Jetpack Compose with Java/Kotlin), iOS (Swift), and Flutter/Dart.
+- Crafting exceptional mobile experiences using Dart/Flutter, Android (Jetpack Compose with Kotlin) and iOS (Swift).
 
 ## Multilingual Aptitude
-- Fluent in Dart/Flutter, JavaScript, TypeScript, Kotlin, Python, Java, Swift, C#, HTML, and CSS.
+- Fluent in Dart/Flutter, TypeScript, Kotlin, Python, Java, Swift, C#, HTML, and CSS.
 
 ## Database Proficiency
 - Navigating MongoDB, SQLite, SQL, NoSQL, and PostgreSQL for efficient data management.
@@ -28,11 +28,11 @@ I'm **Ibrahim Ahmad**, a seasoned freelance Mobile and Web developer with over 7
 ## Continuous Learning
 - Exploring Software Architectures, AI,NLP, Machine Learning, and UX Design to stay at the forefront of technology.
 
-🔭 **Currently**, I'm engaged in Freelancing, focusing on Mobile app development including Flutter/Dart, Android Jetpack Compose, Swift/iOS, as well as Backend and Frontend using technologies like Node.js, Vue.js, Nuxt.js, C#, .Net, and more.
+🔭 **Currently**, I'm engaged in Freelancing, focusing on Mobile app development including Flutter/Dart, Android Jetpack Compose, Swift/iOS
 
 🌱 **I'm actively learning** AI, NLP, Python, Rust and other cutting-edge technologies.
 
-👯 **I'm open to collaborate** on projects involving Mobile apps, AI, Web development with technologies such as Flutter, Ai , NLP, and Web  Backend development.
+👯 **I'm open to collaborate** on projects involving Mobile apps, AI, Web development with technologies such as Flutter, Pythonn, IA , NLP, and Web  Backend development.
 
 💬 **Feel free to ask me** about Mobile app development, technical inquiries, or anything else you're curious about.
 📫 **You can reach me** at:
