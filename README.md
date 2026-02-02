@@ -4,11 +4,14 @@ NIAMEY - NIGER
 
 Leading AlfajarSoft & Building Valuable App for better World
 
-Deep App Developpement | MOBILE | WEB | SAAS | POSTGRESQL | MONGODB
+Deep App Developpement | MOBILE | WEB | SAAS | NESTJS| FLUTTER | POSTGRESQL | MONGODB | FIREBASE
 
-
-I'm a versatile developer specializing in mobile app creation, web development, and AI integration. My expertise spans from crafting user-friendly interfaces to implementing complex backend systems and exploring cutting-edge ai learning technologies.
-
+Current Projects: 
+* VocalDevise(Private): Make Invoice with Voice 
+* [DabaraLang](https://github.com/feyroozecode/dabara_lang): First Hausa Programming Language
+* GeoDataBot(Private): BotApp that Explore Geo Data for Niger, First Price of SIATEG 2025
+* GroqiBook(Private): Resume and get Explanation and Transations in many language for any White Paper
+* CarbuTrack: Track Gaz and Oil Station in Niamey 
 
 Contributions
 ![snake gif](https://github.com/feyroozecode/feyroozecode/blob/output/github-snake-dark.svg)
