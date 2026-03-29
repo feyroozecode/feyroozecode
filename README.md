@@ -2,8 +2,6 @@
 ](https://github.com/feyroozecode/feyroozecode/edit/main/README.md)
 NIAMEY - NIGER
 
-Niamey, Niger
-
 Founder & Principal Developer at AlfajarSoft
 
 About Me
